@@ -24,6 +24,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
       'time':instance.time,
       'flag': instance.flag,
       'isDayTime': instance.isDayTime,
+
     });
   }
 
